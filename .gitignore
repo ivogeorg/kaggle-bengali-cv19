@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+data/archive/
+data/raw/
+data/processed/
+
+# PyCharm
+.idea/
+
