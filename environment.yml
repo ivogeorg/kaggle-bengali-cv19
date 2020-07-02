@@ -1,4 +1,4 @@
-name: tf-test-conda
+name: tf-22-updated
 channels:
   - conda-forge
   - defaults
