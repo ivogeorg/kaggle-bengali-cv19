@@ -129,9 +129,12 @@ dmypy.json
 .pyre/
 
 # Data
-data/archive/
-data/raw/
-data/processed/
+data/
+
+# Models
+models/
+*.npy
+*.h5
 
 # PyCharm
 .idea/
