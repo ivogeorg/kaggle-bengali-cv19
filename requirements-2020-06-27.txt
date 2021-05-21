@@ -93,7 +93,7 @@ simpleneighbors==0.1.0
 six==1.15.0
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.2.0
+tensorflow==2.5.0
 tensorflow-datasets==3.1.0
 tensorflow-docs @ git+https://github.com/tensorflow/docs@1c7f2ed3be65e70f7bcd10a435ef9d1b3c313db4
 tensorflow-estimator==2.2.0
