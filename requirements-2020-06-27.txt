@@ -97,7 +97,7 @@ tensorflow==2.2.0
 tensorflow-datasets==3.1.0
 tensorflow-docs @ git+https://github.com/tensorflow/docs@1c7f2ed3be65e70f7bcd10a435ef9d1b3c313db4
 tensorflow-estimator==2.2.0
-tensorflow-gpu==2.2.0
+tensorflow-gpu==2.5.1
 tensorflow-hub==0.8.0
 tensorflow-metadata==0.22.2
 tensorflow-text==2.2.0
